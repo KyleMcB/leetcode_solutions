@@ -1,0 +1,14 @@
+BasedOnStyle: Microsoft
+IndentWidth: 4
+ColumnLimit: 90
+AlignAfterOpenBracket: true
+AlignConsecutiveAssignments: true
+AlignEscapedNewlines: Left
+AlignOperands: true
+AlignTrailingComments: true
+AllowShortBlocksOnASingleLine: true
+BinPackParameters: false
+BreakBeforeBinaryOperators: None
+FixNamespaceComments: true
+PointerAlignment: Left
+SpaceBeforeCtorInitializerColon: true
